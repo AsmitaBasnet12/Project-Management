@@ -3,16 +3,29 @@ McGregor Institute of Botanical Training is Ireland based training institute loc
 The following information is included in this project, which is necessary for the completion of the project handled by the project manager.The first portion of the coursework is completed in a group setting, while the second portion is completed on an individual basis.
 
 WBS and Gantt Chart 
-Project Charter 
+
+Project Charter
+
 Context Diagram 
+
 Data Dictionary 
+
 Process Specification 
+
 Structured Chart
+
 Use Case 
+
 High Level Use Case 
-Expanded Use Case 
+
+Expanded Use Case
+
 Collaboration Diagram 
+
 Sequence Diagram 
+
 Class Diagram 
+
 Further Development
+
 Prototype 
